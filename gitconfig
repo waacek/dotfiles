@@ -48,4 +48,4 @@
   mergeoptions = --no-edit
 [user]
 	email = wallacerezende12@gmail.com
-	name = Wallace Rezende
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles
